@@ -1,0 +1,12 @@
+Source: ros-noetic-environmental-msgs
+Section: misc
+Priority: optional
+Maintainer: Laura Lindzey <lindzey@uw.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-message-generation, ros-noetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-environmental-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-message-runtime, ros-noetic-std-msgs
+Description: The environmental_msgs package, with proposed messages for common underwater environmental sensors (e.g., conductivity, turbidity, dissolved oxygen)
