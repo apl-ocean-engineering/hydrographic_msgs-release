@@ -1,0 +1,27 @@
+ros-noetic-environmental-msgs (1.1.0-1buster) buster; urgency=high
+
+  * Add CI, pre-commit, prerelease and dependabot (#27 <https://github.com/apl-ocean-engineering/hydrographic_msgs/issues/27>)
+    Co-authored-by: Laura Lindzey <mailto:lindzey@uw.edu>
+  * Fix typo in package.xml
+  * Contributors: Laura Lindzey, Vatan Aksoy Tezer
+
+ -- Laura Lindzey <lindzey@uw.edu>  Tue, 29 Nov 2022 21:00:00 -0000
+
+ros-noetic-environmental-msgs (1.0.0-1buster) buster; urgency=high
+
+  * Merge branch 'main' into acoustic_msg_devel
+  * Contributors: Kristopher Krasnosky
+
+ -- Laura Lindzey <lindzey@uw.edu>  Wed, 04 May 2022 21:00:00 -0000
+
+ros-noetic-environmental-msgs (0.0.1-1buster) buster; urgency=high
+
+  * Merge pull request #11 <https://github.com/apl-ocean-engineering/hydrographic_msgs/issues/11> from apl-ocean-engineering/add_turbidity_ntu_msg
+    Added environmental_msgs package and TurbidityNTU message.
+  * Added environmental_msgs package and TurbidityNTU message.
+    Also created brief README for environmental_msgs package.
+  * Contributors: Aaron Marburg, lauralindzey
+
+ -- Laura Lindzey <lindzey@uw.edu>  Mon, 22 Nov 2021 21:00:00 -0000
+
+
